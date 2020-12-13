@@ -8,6 +8,7 @@
   },
   "hosting": {
     "public": "dist",
+    "site": "x1234",
     "ignore": [
       "firebase.json",
       "**/.*",
